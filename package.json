@@ -1,0 +1,27 @@
+{
+  "name": "employee-rollcall",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhunter27/Employee-Rollcall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhunter27/Employee-Rollcall/issues"
+  },
+  "homepage": "https://github.com/rhunter27/Employee-Rollcall#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.4.7",
+    "inquirer": "^8.2.4",
+    "pg": "^8.14.1"
+  }
+}
